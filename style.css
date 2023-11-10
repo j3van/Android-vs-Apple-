@@ -1,0 +1,51 @@
+ html {
+    background-color: #cabfb6;
+ }
+
+ body{
+    width: 650px;
+    margin: auto;
+    padding: 0px 115px;
+    background: white;
+    padding-bottom: 60px;
+    font-family:"Open sans",sans-serif;
+    font-size: 17px;
+    margin-bottom: 46px;
+ }
+ 
+ h2{
+    font-family:"Proza Libre",sans-serif;
+ }
+
+ .An{
+    background-color: #a4c93b;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+    border-style: outset;
+    padding: 3px 30px 3px 30px;
+ }
+
+ .Ap {
+    background-color: #b6bcca;
+    font-size: 30px;
+    border: none;
+    padding: 3px 30px 3px 30px;
+    border-radius: 10px;
+    border-style: outset;
+
+ }
+
+ .b{
+    background-color: #c9793b;
+    border: none;
+    padding: 15px 30px 15px 30px;
+    border-radius: 10px;
+    font-family: "Open sans",sans-serif;
+    margin-bottom: 15px;
+    font-size: 15px;
+    text-align: center;
+    
+ }
+
+ 
